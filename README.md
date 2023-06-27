@@ -1,6 +1,6 @@
 # Life and Learnings
 
-_[Email](mailto:karven@posteo.nl)_
+_[Email](mailto:vkarthikbalaji@gmail.com)_ 
 
 ## 2022 - Now
 
