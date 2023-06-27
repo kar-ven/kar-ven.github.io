@@ -1,6 +1,6 @@
-# Karthik Venkatapathy
+# Life and Learnings
 
-[Email](mailto:karven@posteo.nl) 
+_[Email](mailto:karven@posteo.nl)_
 
 ## 2022 - Now
 
@@ -16,19 +16,19 @@
 
 ## 2014 - 2016
 
-**Research Engineer** @ [Hogeschool Arnhem en Nijmegen] (https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/)
+**Research Engineer** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/)
 
 ## 2011 - 2014
 
-**Master's degree Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
+**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 ## 2008 - 2011
 
-**Control system design engineer** @ [Titan Engineering & Automation Limited] (https://www.titanteal.com/)
+**Control System Design Engineer** @ [Titan Engineering & Automation Limited](https://www.titanteal.com/)
 
 ## 2004 - 2008
 
-**Bachelor's degree Electrical & Electronics Engineering** @ [KCT India](https://www.kct.ac.in/)
+**Bachelor's degree in Electrical & Electronics Engineering** @ [Kumaraguru College of Technology](https://www.kct.ac.in/)
 
 ## 1991 - 2004
 
