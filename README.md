@@ -1,18 +1,16 @@
-# Life and Learnings
-
 _vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 ## 2022 - Now
 
-**Software Engineering Lead / Product owner** @ [2getthere B.V.(A company of ZF)](https://www.2getthere.eu//)
+**Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//)
 
 ## 2018 - 2022
 
-**Software Engineer - DevOps** @ [2getthere B.V.(A company of ZF)](https://www.2getthere.eu//)
+**Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//)
 
 ## 2016 - 2018
 
-**Testing & Commissioning Engineer** @ [2getthere B.V.(A company of ZF)](https://www.2getthere.eu//)
+**Testing & Commissioning Engineer** @ [2getthere B.V.](https://www.2getthere.eu//)
 
 ## 2014 - 2016
 
@@ -21,6 +19,10 @@ _vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
 ## 2011 - 2014
 
 **Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
+
+## 2011
+
+**Moved to Arnhem, Nederland**
 
 ## 2008 - 2011
 
