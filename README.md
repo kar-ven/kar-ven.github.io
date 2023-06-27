@@ -1,6 +1,6 @@
 # Life and Learnings
 
-_[Email](mailto:vkarthikbalaji@gmail.com)_ 
+_vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | Driel, Netherlands
 
 ## 2022 - Now
 
@@ -40,13 +40,13 @@ _[Email](mailto:vkarthikbalaji@gmail.com)_
 
 ## Volunteering
 
+**Werkgroepslid - Duurzaam** @ [Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/)
+
 ## Personal 
 - Father of a 3 yr old daughter
 - Married to my wife since 2016
-
-## Hobbies & free time
 - Part-time trader
-- Powerlifting
+- Powerlifting for fitness
 - Fiddling with all things automotive
 - Fond of mechanical watches
   
