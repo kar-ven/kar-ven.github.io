@@ -2,7 +2,7 @@ _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 ## Overview
 
-<div class="mermaid">
+```
 gantt
     title Overview
     dateFormat YYYY
@@ -16,7 +16,7 @@ gantt
     Schooling                      :1991, 2004
     Bachelors                      :2004, 2008
     Masters                        :2011, 2014
-</div>
+```
 
 ## 2022 - Now
 
