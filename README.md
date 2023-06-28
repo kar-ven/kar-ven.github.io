@@ -6,6 +6,8 @@ _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 gantt
     title Overview
     dateFormat YYYY
+    axisFormat %Y
+    tickInterval 5Y
     section Work
     Control System Design Engineer :2008, 2011
     Research Engineer              :2014, 2016
