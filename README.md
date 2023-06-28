@@ -1,22 +1,4 @@
-_vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
-
-## Overview
-
-```mermaid
-gantt
-    title Overview
-    dateFormat YYYY
-    section Work
-    Control System Design Engineer :2008, 2011
-    Research Engineer              :2014, 2016
-    Test Engineer                  :2016, 2018
-    Software Engineer - DevOps     :2018, 2022
-    Software Engineering lead - PO :2022, 2023
-    Section Education
-    Schooling                      :1991, 2004
-    Bachelors                      :2004, 2008
-    Masters                        :2011, 2014
-```
+_karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 ## 2022 - Now
 
