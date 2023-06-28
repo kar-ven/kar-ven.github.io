@@ -15,7 +15,6 @@ gantt
     Software Engineer - DevOps     :2018, 2022
     Software Engineering lead - PO :2022, 2023
     Section Education
-    Schooling                      :1991, 2004
     Bachelors                      :2004, 2008
     Masters                        :2011, 2014
 </pre>
