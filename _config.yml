@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Karthik Venkatapathy
 description: Engineer enthralled by markets
+include_dir: _include
 github:
   is_project_page: false
