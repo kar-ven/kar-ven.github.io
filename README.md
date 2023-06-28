@@ -2,7 +2,7 @@ _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 ## Overview
 
-```
+<pre class="mermaid">
 gantt
     title Overview
     dateFormat YYYY
@@ -16,7 +16,7 @@ gantt
     Schooling                      :1991, 2004
     Bachelors                      :2004, 2008
     Masters                        :2011, 2014
-```
+</pre>
 
 ## 2022 - Now
 
@@ -70,6 +70,12 @@ gantt
 - Fiddling with all things automotive
 - Fond of mechanical watches
   
-
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({
+		startOnLoad: true,
+		theme: 'dark'
+	});
+</script>
 
 
