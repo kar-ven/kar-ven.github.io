@@ -3,8 +3,3 @@ title: Karthik Venkatapathy
 description: Engineer enthralled by markets
 github:
   is_project_page: false
-plugins:
-  - jekyll-spaceship
-default:
-  values:
-      mermaid: true
