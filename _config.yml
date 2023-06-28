@@ -5,4 +5,6 @@ github:
   is_project_page: false
 plugins:
   - jekyll-spaceship
-mermaid: true
+default:
+  values:
+      mermaid: true
