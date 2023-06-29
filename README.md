@@ -22,7 +22,7 @@ gantt
 ## Engineering experience
 
 **Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
-_(2022 -  Now)_ <br>
+_(2022 - Present)_ <br>
 Product owner for Autonomous fleet control software services
 - Lead a team of 5 software engineers
 - Idea meritocracy based leadership
@@ -60,6 +60,16 @@ Designing control systems for automation of production and testing machineries
 - Automation system design
 - Programming of PLCs, Robots, Servo actuators & Vision systems
 - **Concepts, technologies & tools**: PLC programming, Robotics, Machine vision, Sensors & Actuators, Eplan
+
+## Investing experience
+
+**Self-taught trader** <br>
+_(2021 - Present)_ <br>
+- Long term investment in stocks
+- Swing & position trading 
+- PEADs & Momentum breakouts of US common Stocks
+- Minimal experience with CFDs
+- **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith, KoyFin, FinViz
 
 ## Education
 
