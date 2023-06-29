@@ -7,7 +7,7 @@ gantt
     title Timeline
     dateFormat YYYY
     axisFormat %Y
-    tickInterval 5Y
+    tickInterval 10y
     section Work
     Control System Design Engineer :2008, 2011
     Research Engineer              :2014, 2016
