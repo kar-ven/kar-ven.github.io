@@ -41,7 +41,7 @@ Validation, verification and commissioning of Autonomous vehicle fleet
 - Troubleshooting vehicle and fleet control software
 - **Concepts, technologies & tools**: Linux, Python, Jira tests
 
-**Research Engineer** <br
+**Research Engineer** <br>
 [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) _(2014 - 2016)_ <br>
 Second life applications of EV traction batteries
 - Analysis of lifecycle of EV traction batteries
@@ -71,12 +71,12 @@ _(2021 - Present)_ <br>
 
 ## Education
 
-**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/) <br>
-_(2011 - 2014)_ <br>
+**Master's degree in Automotive systems** <br>
+[Hogeschool Arnhem en Nijmegen](https://www.han.nl/) _(2011 - 2014)_ <br>
 Focus on vehicle dynamics, engines and alternative propulsion systems
 
-**Bachelor's degree in Electrical & Electronics Engineering** @ [Kumaraguru College of Technology](https://www.kct.ac.in/) <br>
-_(2004 - 2008)_ <br>
+**Bachelor's degree in Electrical & Electronics Engineering** <br>
+[Kumaraguru College of Technology](https://www.kct.ac.in/) _(2004 - 2008)_ <br>
 Focus on Electrical control systems and Embedded electronics
 
 ## Languages
