@@ -23,6 +23,9 @@ gantt
 
 **Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//)
 _(2022 -  Now)_
+Lead and product owner for Autonomous fleet control software
+    - 
+    - Technologies & tools: Cplan, Jira, Confluence
 
 **Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//)
 _(2018 - 2022)_
