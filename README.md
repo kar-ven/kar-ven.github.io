@@ -23,30 +23,33 @@ gantt
 
 **Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
 _(2022 -  Now)_ <br>
-Product owner for Autonomous fleet control software
+Product owner for Autonomous fleet control software services
 - Lead a team of 5 software engineers
-- Concepts, technologies & tools: Agile, Cplan, Jira, Confluence, Mermaidjs, Grafana
+- Idea meritocracy based leadership
+- Concepts, technologies & tools: Agile, Cloud and Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
 
 **Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
 _(2018 - 2022)_ <br>
+Developer & Operations specialist for Autonomous fleet control software
+    - Concepts, technologies & tools: Linux, Git, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins
 
 - Concepts, technologies & tools: Agile, Cplan, Jira, Confluence, Mermaidjs, Grafana
-**Testing & Commissioning Engineer** @ [2getthere B.V.](https://www.2getthere.eu//)
-_( 2016 - 2018)_
+**Testing & Commissioning Engineer** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
+_( 2016 - 2018)_ <br>
 
-**Research Engineer** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/)
-_(2014 - 2016)_
+**Research Engineer** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) <br>
+_(2014 - 2016)_ <br>
 
-**Control System Design Engineer** @ [Titan Engineering & Automation Limited](https://www.titanteal.com/)
-_(2008 - 2011)_
+**Control System Design Engineer** @ [Titan Engineering & Automation Limited](https://www.titanteal.com/) <br>
+_(2008 - 2011)_ <br>
 
 ## Education
 
-**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
-_(2011 - 2014)_
+**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/) <br>
+_(2011 - 2014)_ <br>
 
-**Bachelor's degree in Electrical & Electronics Engineering** @ [Kumaraguru College of Technology](https://www.kct.ac.in/)
-_(2004 - 2008)_
+**Bachelor's degree in Electrical & Electronics Engineering** @ [Kumaraguru College of Technology](https://www.kct.ac.in/) <br>
+_(2004 - 2008)_ <br>
 
 ## Languages
 
