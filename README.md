@@ -33,16 +33,16 @@ Developer & Operations specialist for Autonomous fleet control software
 - Operations deployment support
 - **Concepts, technologies & tools**: Scrum, Git, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins
 
-**Validation Engineer** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
-_( 2016 - 2018)_ <br>
+**Validation Engineer** <br>
+[2getthere B.V.](https://www.2getthere.eu//) _( 2016 - 2018)_ <br>
 Validation, verification and commissioning of Autonomous vehicle fleet
 - Testing systems and sub-systems of Autonomous fleet
 - Integrating autonomous vehicle to fleet control software
 - Troubleshooting vehicle and fleet control software
 - **Concepts, technologies & tools**: Linux, Python, Jira tests
 
-**Research Engineer** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) <br>
-_(2014 - 2016)_ <br>
+**Research Engineer** <br
+[Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) _(2014 - 2016)_ <br>
 Second life applications of EV traction batteries
 - Analysis of lifecycle of EV traction batteries
 - Point of shift prediction from first to second life for EV batteries
@@ -50,8 +50,8 @@ Second life applications of EV traction batteries
 - Part-time teaching about area of research
 - **Concepts, technologies & tools**: Matlab, Simulink, Code generation
 
-**Controls Engineer** @ [Titan Engineering & Automation Limited](https://www.titanteal.com/) <br>
-_(2008 - 2011)_ <br>
+**Controls Engineer** <br>
+[Titan Engineering & Automation Limited](https://www.titanteal.com/) _(2008 - 2011)_ <br>
 Designing control systems for automation of production and testing machineries
 - Engineering design of electrical control systems
 - Selection of sensors and actuators
@@ -63,10 +63,10 @@ Designing control systems for automation of production and testing machineries
 
 **Self-taught trader** <br>
 _(2021 - Present)_ <br>
-- Long term investment in stocks
+- Long term investment in stocks based on market situational awareness
 - Swing & position trading 
 - PEADs & Momentum breakouts of US common Stocks
-- Minimal experience with CFDs
+- Minimal experience with CFDs & Daytrading
 - **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith, KoyFin, FinViz
 
 ## Education
