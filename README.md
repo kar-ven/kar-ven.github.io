@@ -21,15 +21,16 @@ gantt
 
 ## Engineering experience
 
-**Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//)
-_(2022 -  Now)_
-Lead and product owner for Autonomous fleet control software
-    - 
-    - Technologies & tools: Cplan, Jira, Confluence
+**Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
+_(2022 -  Now)_ <br>
+Product owner for Autonomous fleet control software
+- Lead a team of 5 software engineers
+- Concepts, technologies & tools: Agile, Cplan, Jira, Confluence, Mermaidjs, Grafana
 
-**Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//)
-_(2018 - 2022)_
+**Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
+_(2018 - 2022)_ <br>
 
+- Concepts, technologies & tools: Agile, Cplan, Jira, Confluence, Mermaidjs, Grafana
 **Testing & Commissioning Engineer** @ [2getthere B.V.](https://www.2getthere.eu//)
 _( 2016 - 2018)_
 
@@ -49,15 +50,15 @@ _(2004 - 2008)_
 
 ## Languages
 
-**English**: C2
-**Dutch**: B2
-**Tamil**: Native 
-**Telugu**: Native
+**English**: Professional <br>
+**Dutch**: Conversational <br>
+**Tamil**: Native <br> 
+**Telugu**: Native <br>
 
 ## Administration
 
-**Nationality**: Nederlands
-**Driving License**: A(Motorcycles), B(Cars)
+**Nationality**: Nederlands <br>
+**Driving License**: A(Motorcycles), B(Cars) <br>
 
 ## Volunteering
 
