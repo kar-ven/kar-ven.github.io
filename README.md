@@ -1,7 +1,5 @@
 _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
-## Overview
-
 <pre class="mermaid">
 gantt
     title Timeline
