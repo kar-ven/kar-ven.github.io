@@ -19,15 +19,15 @@ gantt
 
 ## Engineering experience
 
-**Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
-_(2022 - Present)_ <br>
+**Software Engineering Lead / Product owner**  <br>
+[2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
 Product owner for Autonomous fleet control software services
 - Lead a team of 5 software engineers
 - Idea meritocracy based leadership
 - **Concepts, technologies & tools**: Agile, Cloud and Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
 
-**Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//) <br>
-_(2018 - 2022)_ <br>
+**Software Engineer - DevOps** <br>
+[2getthere B.V.](https://www.2getthere.eu//) _(2018 - 2022)_ <br>
 Developer & Operations specialist for Autonomous fleet control software
 - Software testing and release management
 - Operations deployment support
