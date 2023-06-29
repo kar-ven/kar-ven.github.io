@@ -4,7 +4,7 @@ _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 <pre class="mermaid">
 gantt
-    title Overview
+    title Timeline
     dateFormat YYYY
     axisFormat %Y
     tickInterval 5Y
@@ -19,45 +19,42 @@ gantt
     Masters                        :2011, 2014
 </pre>
 
-## 2022 - Now
+## Engineering experience
 
 **Software Engineering Lead / Product owner** @ [2getthere B.V.](https://www.2getthere.eu//)
-
-## 2018 - 2022
+_(2022 -  Now)_
 
 **Software Engineer - DevOps** @ [2getthere B.V.](https://www.2getthere.eu//)
-
-## 2016 - 2018
+_(2018 - 2022)_
 
 **Testing & Commissioning Engineer** @ [2getthere B.V.](https://www.2getthere.eu//)
-
-## 2014 - 2016
+_( 2016 - 2018)_
 
 **Research Engineer** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/)
-
-## 2011 - 2014
-
-**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
-
-## 2011
-
-**Moved to Arnhem, Nederland**
-
-## 2008 - 2011
+_(2014 - 2016)_
 
 **Control System Design Engineer** @ [Titan Engineering & Automation Limited](https://www.titanteal.com/)
+_(2008 - 2011)_
 
-## 2004 - 2008
+## Education
+
+**Master's degree in Automotive systems** @ [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
+_(2011 - 2014)_
 
 **Bachelor's degree in Electrical & Electronics Engineering** @ [Kumaraguru College of Technology](https://www.kct.ac.in/)
+_(2004 - 2008)_
 
-## 1991 - 2004
+## Languages
 
-**Schooling at Coimbatore, India** @ [SGN Schools](https://www.srigopalnaiduschools.in/)
+**English**: C2
+**Dutch**: B2
+**Tamil**: Native 
+**Telugu**: Native
 
-## 1986
+## Administration
 
-**Born in Coimbatore, India**
+**Nationality**: Nederlands
+**Driving License**: A(Motorcycles), B(Cars)
 
 ## Volunteering
 
