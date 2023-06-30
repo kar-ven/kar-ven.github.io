@@ -5,7 +5,7 @@ gantt
     title Timeline
     dateFormat YYYY
     axisFormat %Y
-    tickInterval 5y
+    tickInterval 5years
     section Work
     Controls Engineer              :2008, 2011
     Research Engineer              :2014, 2016
@@ -22,8 +22,9 @@ gantt
 **Software Engineering Lead / Product owner**  <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
 Product owner for Autonomous fleet control software services
-- Lead a team of 5 software engineers
+- Autonomous vehicle system features planning & execution
 - Idea meritocracy based leadership
+- Lead a team of 5 software engineers
 - **Concepts, technologies & tools**: Agile, Cloud and Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
 
 **Software Engineer - DevOps** <br>
