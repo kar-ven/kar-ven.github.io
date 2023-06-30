@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-title: Karthik Venkatapathy
+name: Karthik Venkatapathy
+title: null
 description: Engineer enthralled by markets
 github:
   is_project_page: false
