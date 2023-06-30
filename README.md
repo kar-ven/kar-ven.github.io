@@ -4,7 +4,8 @@ _karven@posteo.nl_ | _+31 (0) 623994658_ | _Driel, Nederland_
 gantt
     title Timeline
     dateFormat YYYY
-    axisFormat %5Y
+    axisFormat %Y
+    tickInterval 5year
     section Work
     Controls Engineer              :2008, 2011
     Research Engineer              :2014, 2016
@@ -21,7 +22,7 @@ gantt
 **Software Engineering Lead / Product owner**  <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
 Product owner for Autonomous fleet control software services
-- Autonomous transport system features planning & execution
+- Autonomous transit system features planning & execution
 - Roadmap creation and alignment with stakeholders
 - Idea meritocracy based leadership
 - Lead a team of 5 software engineers
@@ -30,7 +31,9 @@ Product owner for Autonomous fleet control software services
 **Software Engineer - DevOps** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2018 - 2022)_ <br>
 Developer & Operations specialist for Autonomous fleet control software
-- Software testing and release management
+- Software testing and integration
+- Scrum master
+- Release management
 - Operations deployment support
 - **Concepts, technologies & tools**: Scrum, Git, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins
 
@@ -40,6 +43,7 @@ Validation, verification and commissioning of Autonomous vehicle fleet
 - Testing systems and sub-systems of Autonomous fleet
 - Integrating autonomous vehicle to fleet control software
 - Troubleshooting vehicle and fleet control software
+- Commissioning Autonomous transit systems
 - **Concepts, technologies & tools**: Linux, Python, Jira tests
 
 **Research Engineer** <br>
