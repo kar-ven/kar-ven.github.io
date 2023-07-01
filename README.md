@@ -97,7 +97,7 @@ Focus on Electrical control systems and Embedded electronics
 
 ## Volunteering
 
-**Werkgroepslid - Duurzaam** <br>
+**Member - Workgroup Sustainability** <br>
 [Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - 2023)_ <br>
 Realizing sustainability projects and creating awareness within our village
 
