@@ -1,4 +1,4 @@
-_vkarthikbalaji@gmail.com_  |  _+31 (0) 623994658_  |  _Driel, Nederland_
+<center>_vkarthikbalaji@gmail.com_  |  _+31 (0) 623994658_  |  _Driel, Nederland_</center>
 
 <pre class="mermaid">
 gantt
