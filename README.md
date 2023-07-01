@@ -5,16 +5,15 @@ gantt
     title Timeline
     dateFormat YYYY
     axisFormat %Y
-    Section Education
-    Bachelors                          :2004, 2008
-    Masters                            :2011, 2014
     section Work
     Controls Engineer                  :2008, 2011
     Research Engineer                  :2014, 2016
     Validation Engineer                :2016, 2018
     Software Engineer - DevOps         :2018, 2022
     Software Engineering lead - PO     :2022, 2024
-
+    Section Education
+    Bachelors                          :2004, 2008
+    Masters                            :2011, 2014
 </pre>
 
 ## Engineering experience
