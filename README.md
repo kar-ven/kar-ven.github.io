@@ -7,7 +7,6 @@ gantt
     title Timeline
     dateFormat YYYY
     axisFormat %Y
-    tickInterval 60month
     section Work
     Controls Engineer              :2008, 2011
     Research Engineer              :2014, 2016
