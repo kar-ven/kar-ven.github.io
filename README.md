@@ -99,9 +99,7 @@ Focus on Electrical control systems and Embedded electronics
 
 **Werkgroepslid - Duurzaam** <br>
 [Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - 2023)_ <br>
-Realizing sustainable mobility projects and creating awareness within our village
-- Deelauto Driel
-- Slimme solar Bandenpomp
+Realizing sustainability projects and creating awareness within our village
 
 ## Personal 
 - Father of a 3 yr old daughter
