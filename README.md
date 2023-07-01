@@ -6,8 +6,8 @@ gantt
     dateFormat YYYY
     axisFormat %Y
     Section Education
-    Bachelors Electrical & Electronics :2004, 2008
-    Masters Automotive systems         :2011, 2014
+    Bachelors                          :2004, 2008
+    Masters                            :2011, 2014
     section Work
     Controls Engineer                  :2008, 2011
     Research Engineer                  :2014, 2016
@@ -21,7 +21,7 @@ gantt
 
 **Software Engineering Lead / Product owner**  <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
-Product owner for Autonomous fleet control software services
+Lead & Product owner for Autonomous fleet control software services
 - Autonomous transit system features planning & execution
 - Roadmap creation and alignment with stakeholders
 - Idea meritocracy based leadership
