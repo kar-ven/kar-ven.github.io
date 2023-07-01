@@ -65,11 +65,11 @@ Designing control systems for automation of production and testing machineries
 
 ## Investing experience
 
-**Self-taught trader** <br>
+**Part-time trader** <br>
 _(2021 - Present)_ <br>
-- Long term investment in stocks based on market situational awareness
 - Swing & position trading 
 - PEADs & Momentum breakouts of US common Stocks
+- Started managing my own pension portfolio
 - Minimal experience with CFDs & Daytrading
 - **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith, KoyFin, FinViz
 
