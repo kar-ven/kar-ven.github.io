@@ -75,11 +75,11 @@ _(2021 - Present)_ <br>
 
 ## Education
 
-**Master's degree in Automotive systems** <br>
-[Hogeschool Arnhem en Nijmegen](https://www.han.nl/) _(2011 - 2014)_ <br>
+**MSc - Automotive systems** <br>
+[Hogeschool Arnhem en Nijmegen](https://www.han.nl/) _(2011 - 2013)_ <br>
 Focus on vehicle dynamics, engines and alternative propulsion systems
 
-**Bachelor's degree in Electrical & Electronics Engineering** <br>
+**BEng - Electrical & Electronics Engineering** <br>
 [Kumaraguru College of Technology](https://www.kct.ac.in/) _(2004 - 2008)_ <br>
 Focus on Electrical control systems and Embedded electronics
 
