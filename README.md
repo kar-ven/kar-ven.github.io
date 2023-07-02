@@ -105,10 +105,9 @@ Realizing sustainability projects and creating awareness within our village
 
 ## Practical
 
-**English**: Professional | **Nationality**: Nederlands 
-**Dutch**: Conversational | **Driving License**: A(Motorcycles), B(Cars)
-**Tamil**: Native |
-**Telugu**: Native | 
+**English**: Professional | **Dutch**: Conversational | **Tamil**: Native | **Telugu**: Native 
+<br>
+**Nationality**: Nederlands | **Driving License**: A(Motorcycles), B(Cars)
 
 ## Personal 
 - Father of a 3 yr old daughter
