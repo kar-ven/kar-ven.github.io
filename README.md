@@ -86,13 +86,13 @@ Focus on Electrical control systems and Embedded electronics
 ## Volunteering
 
 **Member - Workgroup Sustainability** <br>
-[Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - 2023)_ <br>
+[Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - Present)_ <br>
 Realizing sustainability projects and creating awareness within our village
 
 ## Practical
 
-**English**: Professional | **Dutch**:<br> Conversational | **Tamil**: Native | **Telugu**: Native 
-**Nationality**: Nederlands | **Driving License**:<br> A - Motorcycles, B - Cars
+**English**:<br> Professional | **Dutch**:<br> Conversational | **Tamil**:<br> Native | **Telugu**:<br> Native 
+**Nationality**: Nederlands | **Driving License**:<br> A, B
 
 ## Personal 
 - Father of a 3 yr old daughter
