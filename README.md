@@ -76,7 +76,7 @@ _(2021 - Present)_ <br>
 ## Education
 
 **MSc - Automotive systems** <br>
-[Hogeschool Arnhem en Nijmegen](https://www.han.nl/) _(2011 - 2014)_ <br>
+[Hogeschool Arnhem en Nijmegen](https://www.han.nl/) _(2011 - 2013)_ <br>
 Focus on vehicle dynamics, engines and alternative propulsion systems
 
 **BEng - Electrical & Electronics Engineering** <br>
