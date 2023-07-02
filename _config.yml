@@ -4,5 +4,3 @@ logo: /assets/img/logo.jpg
 github:
   is_project_page: false
   is_user_page: false
-sidebar:
-  nav: "cv"
