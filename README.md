@@ -1,8 +1,3 @@
----
-layout: default
-title: Engineering experience
----
-
 _vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 <pre class="mermaid">
