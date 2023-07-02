@@ -1,14 +1,3 @@
----
-  defaults:
-    # _docs
-    - scope:
-        path: ""
-        type: cv
-      values:
-        sidebar:
-          nav: "cv"
----
-
 _vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
 
 <pre class="mermaid">
