@@ -83,23 +83,25 @@ Focus on vehicle dynamics, engines and alternative propulsion systems
 [Kumaraguru College of Technology](https://www.kct.ac.in/) _(2004 - 2008)_ <br>
 Focus on Electrical control systems and Embedded electronics
 
-## Languages
+## Volunteering
+
+**Member - Workgroup Sustainability** <br>
+[Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - 2023)_ <br>
+Realizing sustainability projects and creating awareness within our village
+
+## Practical
+
+### Languages
 
 **English**: Professional <br>
 **Dutch**: Conversational <br>
 **Tamil**: Native <br> 
 **Telugu**: Native <br>
 
-## Administration
+### Administration
 
 **Nationality**: Nederlands <br>
 **Driving License**: A(Motorcycles), B(Cars) <br>
-
-## Volunteering
-
-**Member - Workgroup Sustainability** <br>
-[Dorpsplatform Driel](https://www.samendriel.nl/category/duurzaam/) _(2019 - 2023)_ <br>
-Realizing sustainability projects and creating awareness within our village
 
 ## Personal 
 - Father of a 3 yr old daughter
