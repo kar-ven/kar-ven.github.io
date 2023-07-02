@@ -10,7 +10,7 @@ gantt
     Research Engineer                  :2014, 2016
     Validation Engineer                :2016, 2018
     Software Engineer - DevOps         :2018, 2022
-    Software Engineering lead - PO     :2022, 2024
+    Software Engineering lead - PO     :2022, 2023
     Section Education
     Bachelors                          :2004, 2008
     Masters                            :2011, 2014
@@ -34,7 +34,7 @@ Developer & Operations specialist for Autonomous fleet control software
 - Scrum master
 - Release management
 - Operations deployment support
-- **Concepts, technologies & tools**: Scrum, Git, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins
+- **Concepts, technologies & tools**: Scrum, Gitlab, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins, Angularjs
 
 **Validation Engineer** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _( 2016 - 2018)_ <br>
