@@ -106,8 +106,6 @@ Realizing sustainability projects and creating awareness within our village
 ## Practical
 
 **English**: C2 | **Dutch**: B2 | **Tamil**: Native | **Telugu**: Native 
-<br>
-
 **Nationality**: Nederlands | **Driving License**: A(Motorcycles), B(Cars)
 
 ## Personal 
