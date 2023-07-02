@@ -103,6 +103,13 @@ Realizing sustainability projects and creating awareness within our village
 **Nationality**: Nederlands <br>
 **Driving License**: A(Motorcycles), B(Cars) <br>
 
+## Practical
+
+**English**: Professional | **Nationality**: Nederlands 
+**Dutch**: Conversational | **Driving License**: A(Motorcycles), B(Cars)
+**Tamil**: Native |
+**Telugu**: Native | 
+
 ## Personal 
 - Father of a 3 yr old daughter
 - Married to my wife since 2016
