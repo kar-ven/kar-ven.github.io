@@ -6,4 +6,4 @@ github:
   is_user_page: false
 navigation:
   - name: Engineering Experience
-    link: ./#engineering-experience
+    link: /#engineering-experience
