@@ -1,8 +1,6 @@
-_vkarthikbalaji@gmail.com_ | _+31 (0) 623994658_ | _Driel, Nederland_
-
 <pre class="mermaid">
 gantt
-    title Timeline
+    title Timeline Overview
     dateFormat YYYY
     axisFormat %Y
     section Work
