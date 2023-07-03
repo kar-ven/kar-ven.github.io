@@ -8,10 +8,10 @@ github:
 color-scheme: auto
 
 navigation:
-  - name: Engineering Experience
-    link: ./README.html#engineering-experience
+ - name: Engineering Experience
+   link: ./readme.html#engineering-experience
     sublist:
-      - name: Software Engineer Lead / Product Owner
-        link: ./index.html#validation-engineer
-  - name: Investing Experience
-    link: ./README.html#investing-experience
+     - name: Software Engineer Lead / Product Owner
+       link: ./readme.html#validation-engineer
+ - name: Investing Experience
+   link: ./readme.html#investing-experience
