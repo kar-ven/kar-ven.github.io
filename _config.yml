@@ -7,9 +7,9 @@ github:
   is_user_page: false
 
 navigation:
-  - name: Overview
-    link: ./#overview
     sublist:
+      - name: Overview
+        link: ./#overview
       - name: Engineering Experience
         link: ./#engineering-experience
       - name: Investing Experience
