@@ -1,6 +1,6 @@
 <pre class="mermaid">
 gantt
-    title Timeline Overview
+    title Overview
     dateFormat YYYY
     axisFormat %Y
     section Work
