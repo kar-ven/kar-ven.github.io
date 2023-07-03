@@ -16,7 +16,7 @@ gantt
 
 ## Engineering experience
 
-**Software Engineering Lead / Product owner**  <br>
+**Software Engineering Lead / Product Owner**  <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
 Lead & Product owner for Autonomous fleet control software services
 - Autonomous transit system features planning & execution
