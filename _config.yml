@@ -8,7 +8,7 @@ github:
 
 navigation:
   - name: Overview
-    link: ./
+    link: ./#overview
     sublist:
       - name: Engineering Experience
         link: ./#engineering-experience

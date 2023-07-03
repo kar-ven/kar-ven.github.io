@@ -1,6 +1,6 @@
+## Overview
 <pre class="mermaid">
 gantt
-    title Overview
     dateFormat YYYY
     axisFormat %Y
     section Work
