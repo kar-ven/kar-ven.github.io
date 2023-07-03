@@ -9,9 +9,9 @@ color-scheme: auto
 
 navigation:
  - name: Engineering Experience
-   link: ./readme.html
+   link: ./#engineering-experience
     sublist:
      - name: Validation Engineer
        link: ./#validation-engineer
-  - name: Investing Experience
-  link: ./#investing-experience
+ - name: Investing Experience
+   link: ./README.html#investing-experience
