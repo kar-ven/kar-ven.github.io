@@ -9,9 +9,9 @@ color-scheme: auto
 
 navigation:
  - name: Engineering Experience
-   link: ./readme.html#engineering-experience
+   link: ./readme.html
     sublist:
-     - name: Software Engineer Lead / Product Owner
-       link: ./readme.html#validation-engineer
- - name: Investing Experience
-   link: ./readme.html#investing-experience
+     - name: Validation Engineer
+       link: ./#validation-engineer
+  - name: Investing Experience
+  link: ./#investing-experience
