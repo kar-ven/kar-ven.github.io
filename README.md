@@ -8,7 +8,7 @@ gantt
     Research Engineer                  :2014, 2016
     Validation Engineer                :2016, 2018
     Software Engineer - DevOps         :2018, 2022
-    Software Engineering lead - PO     :2022, 2023
+    Software Engineering lead - PO     :2022, 2024
     Section Education
     Bachelors                          :2004, 2008
     Masters                            :2011, 2014
@@ -33,6 +33,7 @@ Developer & Operations specialist for Autonomous fleet control software
 - Release management
 - Operations deployment support
 - **Concepts, technologies & tools**: Scrum, Gitlab, Docker, Microservices architecture, Javascript, NPM, Production rules, Jenkins, Angularjs
+- **Notable project** : [ZF Autonomous Transport Systems](https://www.zf.com/site/ats/en/ats.html)
 
 **Validation Engineer** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _( 2016 - 2018)_ <br>
@@ -42,6 +43,7 @@ Validation, verification and commissioning of Autonomous vehicle fleet
 - Troubleshooting vehicle and fleet control software
 - Commissioning Autonomous transit systems
 - **Concepts, technologies & tools**: Linux, Python, Jira tests
+- **Notable project**: [Parkshuttle Rivium](https://www.transdev.nl/nl/onze-routes/vervoersgebieden/parkshuttle-rivium)
 
 **Research Engineer** <br>
 [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) _(2014 - 2016)_ <br>
@@ -51,6 +53,7 @@ Second life applications of EV traction batteries
 - State of health tool development with focus on sustainability
 - Part-time teaching about area of research
 - **Concepts, technologies & tools**: Matlab, Simulink, Code generation
+- **Notable project**: [Hergebruik EV accu's op Pampus](https://www.deingenieur.nl/artikel/hergebruik-autobatterij-op-pampus)
 
 **Controls Engineer** <br>
 [Titan Engineering & Automation Limited](https://www.titanteal.com/) _(2008 - 2011)_ <br>
