@@ -24,7 +24,7 @@ Lead & Product owner for Autonomous fleet control software services
 - Idea meritocracy based leadership
 - Lead a team of 5 software engineers
 - **Concepts, technologies & tools**: Agile, Cloud and Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
-- **Notable project** : [ZF Autonomous Transport Systems](https://www.zf.com/site/ats/en/ats.html)
+- **Notable project**: [ZF Autonomous Transport Systems](https://www.zf.com/site/ats/en/ats.html)
 
 **Software Engineer - DevOps** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2018 - 2022)_ <br>
