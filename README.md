@@ -50,7 +50,7 @@ Validation, verification and commissioning of Autonomous vehicle fleet
 [Hogeschool Arnhem en Nijmegen](https://www.han.nl/onderzoek/lectoraten/lectoraat-han-automotive-research/) _(2014 - 2016)_ <br>
 Second life applications of EV traction batteries
 - Analysis of lifecycle of EV traction batteries
-- Point of shift prediction from first to second life for EV batteries
+- Point of shift prediction from first to second life for Lithium ion batteries ([IEEE publication](https://ieeexplore.ieee.org/document/7352885))
 - State of health tool development with focus on sustainability
 - Part-time teaching about area of research
 - **Concepts, technologies & tools**: Matlab, Simulink, Code generation
