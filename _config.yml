@@ -8,10 +8,16 @@ github:
 color-scheme: auto
 
 navigation:
- - name: Engineering Experience
-   link: ./#engineering-experience
+  - name: Home
+    link: ./
     sublist:
-     - name: Validation Engineer
-       link: ./#validation-engineer
- - name: Investing Experience
-   link: ./README.html#investing-experience
+      - name: Engineering Experience
+        link: ./#engineering-experience
+      - name: Investing Experience
+        link: ./#investing-experience
+      - name: Education
+        link: ./#education
+      - name: Practical
+        link: ./#practical
+      - name: Personal
+        link: ./#personal
