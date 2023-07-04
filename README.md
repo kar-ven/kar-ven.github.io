@@ -103,14 +103,7 @@ Realizing sustainability projects and creating awareness within our village
 - Like listening to trading and personal development podcasts 
 - Fiddling with all things automotive
 - Fond of mechanical watches
-  
-<script type="module">
-	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-	mermaid.initialize({
-		startOnLoad: true,
-        theme: 'neutral'
-	});
-</script>
+
 
 <script>
   window.$docsify = {
@@ -124,6 +117,15 @@ Realizing sustainability projects and creating awareness within our village
 <!-- Import D3.js -->
 <script src="//cdn.jsdelivr.net/npm/d3@7"></script>
 
+<!-- Import Mermaid --> 
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({
+		startOnLoad: true,
+        theme: 'neutral'
+	});
+    window.mermaid = mermaid;
+</script>
 <!-- Import Docsify-mermaid-zoom -->
 <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
 <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
