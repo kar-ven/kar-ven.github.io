@@ -1,6 +1,6 @@
 ## Overview
 <pre class="mermaid">
-%%{config: {'barHeight': 30, 'mirrorActor': 'false', 'barGap': 4, 'topPadding': 75, 'sidePadding':75}}%%
+%%{config: {'barHeight': 30, 'mirrorActor': 'true', 'barGap': 4, 'topPadding': 10, 'sidePadding':10}}%%
 gantt
     dateFormat YYYY
     axisFormat %Y
