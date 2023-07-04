@@ -112,4 +112,20 @@ Realizing sustainability projects and creating awareness within our village
 	});
 </script>
 
+<script>
+  window.$docsify = {
+    ...,
+    mermaidConfig: {
+      querySelector: ".mermaid",
+    }
+    ...,
+  };
+</script>
+<!-- Import D3.js -->
+<script src="//cdn.jsdelivr.net/npm/d3@7"></script>
+
+<!-- Import Docsify-mermaid-zoom -->
+<script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
+<script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
+
 
