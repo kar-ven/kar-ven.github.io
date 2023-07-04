@@ -1,9 +1,9 @@
 ## Overview
 <pre class="mermaid">
 gantt
-%%{config: {'barHeight': 30, 'mirrorActor': 'true', 'barGap': 4, 'topPadding': 10, 'sidePadding':10}}%%
     dateFormat YYYY
     axisFormat %Y
+    stroke-width:5px,stroke:#0f0,opacity:0.5
     section Work
     Controls Engineer                  :2008, 2011
     Research Engineer                  :2014, 2016
