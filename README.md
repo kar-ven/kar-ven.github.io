@@ -5,14 +5,14 @@ gantt
     axisFormat %Y
     todayMarker stroke-width:2px, stroke-linecap:round, stroke-dasharray:10, stroke:black, opacity:0.3
     section Work
-    Controls Engineer                  :2008, 2011
-    Research Engineer                  :2014, 2016
-    Validation Engineer                :2016, 2018
-    Software Engineer - DevOps         :2018, 2022
-    Software Engineering lead - PO     :2022, 2024
+    Controls Engineer                  :done, 2008, 2011
+    Research Engineer                  :done, 2014, 2016
+    Validation Engineer                :done, 2016, 2018
+    Software Engineer - DevOps         :done, 2018, 2022
+    Software Engineering lead - PO     :active, 2022, 2024
     Section Education
-    Bachelors                          :2004, 2008
-    Masters                            :2011, 2014
+    Bachelors                          :done, 2004, 2008
+    Masters                            :done, 2011, 2014
 </pre>
 
 ## Engineering experience
