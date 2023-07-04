@@ -3,7 +3,7 @@
 gantt
     dateFormat YYYY
     axisFormat %Y
-    todayMarker stroke-width:5px,stroke:#0f0,opacity:0.5
+    todayMarker stroke-width:2px,opacity:0.3
     section Work
     Controls Engineer                  :2008, 2011
     Research Engineer                  :2014, 2016
