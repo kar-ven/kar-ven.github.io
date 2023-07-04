@@ -104,19 +104,6 @@ Realizing sustainability projects and creating awareness within our village
 - Fiddling with all things automotive
 - Fond of mechanical watches
 
-
-<script>
-  window.$docsify = {
-    ...,
-    mermaidConfig: {
-      querySelector: ".mermaid",
-    }
-    ...,
-  };
-</script>
-<!-- Import D3.js -->
-<script src="//cdn.jsdelivr.net/npm/d3@7"></script>
-
 <!-- Import Mermaid --> 
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
@@ -124,10 +111,7 @@ Realizing sustainability projects and creating awareness within our village
 		startOnLoad: true,
         theme: 'neutral'
 	});
-    window.mermaid = mermaid;
 </script>
-<!-- Import Docsify-mermaid-zoom -->
-<script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
-<script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
+
 
 
