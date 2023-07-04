@@ -100,7 +100,7 @@ Realizing sustainability projects and creating awareness within our village
 - Father of a 3 yr old daughter
 - Married to my wife since 2016
 - Powerlifting for fitness
-- Spend free time on listening trading and personal development podcasts 
+- Like listening to trading and personal development podcasts 
 - Fiddling with all things automotive
 - Fond of mechanical watches
   
