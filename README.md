@@ -1,5 +1,12 @@
 ## Overview
 <pre class="mermaid">
+<style>
+.grid .tick {
+  stroke: lightgrey;
+  opacity: 0.3;
+  shape-rendering: crispEdges;
+}
+</style>
 gantt
     dateFormat YYYY
     axisFormat %Y
