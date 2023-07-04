@@ -68,7 +68,7 @@ Designing control systems for automation of production and testing machineries
 
 ## Investing experience
 
-**Part-time trader** <br>
+**Self-taught trader** <br>
 _(2021 - Present)_ <br>
 - Swing & position trading 
 - PEADs & momentum breakouts of US common Stocks
