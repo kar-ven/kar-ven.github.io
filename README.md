@@ -1,5 +1,4 @@
 ## Overview
-<pre class="mermaid">
 <style>
 .grid .tick {
   stroke: lightgrey;
@@ -7,6 +6,7 @@
   shape-rendering: crispEdges;
 }
 </style>
+<pre class="mermaid">
 gantt
     dateFormat YYYY
     axisFormat %Y
