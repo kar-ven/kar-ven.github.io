@@ -19,17 +19,17 @@ gantt
 
 **Software Engineering Lead / Product Owner**  <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2022 - Present)_ <br>
-Lead & Product owner for Autonomous fleet control software services
+Lead & product owner for autonomous fleet control software services
 - Autonomous transit system features planning & execution
 - Roadmap creation and alignment with stakeholders
 - Idea meritocracy based leadership
 - Lead a team of 5 software engineers
-- **Concepts, technologies & tools**: Agile, Cloud and Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
+- **Concepts, technologies & tools**: Agile, Cloud & Edge services, Cplan, Jira, Confluence, Mermaidjs, Grafana
 - **Notable project**: [ZF Autonomous Transport Systems](https://www.zf.com/site/ats/en/ats.html)
 
 **Software Engineer - DevOps** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _(2018 - 2022)_ <br>
-Developer & Operations specialist for Autonomous fleet control software
+Developer & operations specialist for autonomous fleet control software
 - Software testing and integration
 - Scrum master
 - Release management
@@ -40,10 +40,10 @@ Developer & Operations specialist for Autonomous fleet control software
 **Validation Engineer** <br>
 [2getthere B.V.](https://www.2getthere.eu//) _( 2016 - 2018)_ <br>
 Validation, verification and commissioning of Autonomous vehicle fleet
-- Testing systems and sub-systems of Autonomous fleet
+- Testing systems and sub-systems of autonomous fleet
 - Integrating autonomous vehicle to fleet control software
 - Troubleshooting vehicle and fleet control software
-- Commissioning Autonomous transit systems
+- Commissioning autonomous transit systems
 - **Concepts, technologies & tools**: Linux, Python, Jira tests
 - **Notable project**: [Driverless entertainment ride system](https://eu.usatoday.com/story/travel/experience/america/theme-parks/2017/03/10/universal-studios-skull-island-reign-kong-review/98966900/)
 
@@ -71,7 +71,7 @@ Designing control systems for automation of production and testing machineries
 **Part-time trader** <br>
 _(2021 - Present)_ <br>
 - Swing & position trading 
-- PEADs & Momentum breakouts of US common Stocks
+- PEADs & momentum breakouts of US common Stocks
 - Started managing my own pension portfolio
 - Minimal experience with CFDs & Daytrading
 - **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith, KoyFin, FinViz
@@ -99,8 +99,8 @@ Realizing sustainability projects and creating awareness within our village
 ## Personal 
 - Father of a 3 yr old daughter
 - Married to my wife since 2016
-- Part-time trader
 - Powerlifting for fitness
+- Spend free time on listening trading and personal development podcasts 
 - Fiddling with all things automotive
 - Fond of mechanical watches
   
