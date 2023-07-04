@@ -23,8 +23,9 @@ img {
   max-width: 100%;
 }
 
-.mermaid {
-  overflow: auto;
+.mermaid svg { 
+  max-width: 100%; 
+  height: auto;
 }
 
 .logo {
