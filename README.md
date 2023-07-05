@@ -4,13 +4,13 @@ gantt
     dateFormat YYYY
     axisFormat %Y
     todayMarker stroke-width:2px, stroke-linecap:round, stroke-dasharray:10, stroke:black, opacity:0.3
-    section Work
+    section Engineering
     Controls Engineer                  :done, 2008, 2011
     Research Engineer                  :done, 2014, 2016
     Validation Engineer                :done, 2016, 2018
     Software Engineer - DevOps         :done, 2018, 2022
     Software Engineering lead - PO     :active, 2022, 2024
-    Section Part-time
+    Section Investing
     Self-taught trader                 :active, 2021, 2024
     Section Education
     Bachelors                          :done, 2004, 2008
