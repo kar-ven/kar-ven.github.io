@@ -113,14 +113,14 @@ Realizing sustainability projects and creating awareness within our village
 	});
 </script>
 
-<!-- Import panzoom --> 
+<!-- Import panzoom-uncomment to get a superb panzoom of the webpage 
 <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
     
 <script>
 var area = document.querySelector('.mermaid')
 panzoom(area)
  </script>
-
+--> 
 
 
 
