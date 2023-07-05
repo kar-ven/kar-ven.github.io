@@ -10,6 +10,8 @@ gantt
     Validation Engineer                :done, 2016, 2018
     Software Engineer - DevOps         :done, 2018, 2022
     Software Engineering lead - PO     :active, 2022, 2024
+    Section Part-time
+    Self-taught trader                 :active, 2021, 2024
     Section Education
     Bachelors                          :done, 2004, 2008
     Masters                            :done, 2011, 2014
