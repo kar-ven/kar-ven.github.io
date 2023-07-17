@@ -70,8 +70,7 @@ Designing control systems for automation of production and testing machineries
 
 ## Investing experience
 
-**Self-taught trader** <br>
-_(2021 - Present)_ <br>
+**Self-taught trader** _(2021 - Present)_ <br>
 - Swing & position trading 
 - PEADs & momentum breakouts of US common Stocks
 - Started managing my own pension portfolio
