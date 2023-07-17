@@ -1,4 +1,5 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+#remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+theme: minimal
 title: Karthik Venkatapathy
 email: vkarthikbalaji@gmail.com
 logo: /assets/img/logo.jpg
