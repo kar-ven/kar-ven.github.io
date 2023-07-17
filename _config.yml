@@ -1,4 +1,5 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+#remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+theme: minima
 title: Karthik Venkatapathy
 description: +31 (0) 623994658
 email: vkarthikbalaji@gmail.com
