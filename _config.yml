@@ -7,18 +7,18 @@ github:
   is_project_page: false
   is_user_page: false
 google_analytics: G-HR5R4KZ27Y
-navigation:
-  - name: Overview
-    link: ./#overview
-  - name: Engineering Experience
-    link: ./#engineering-experience
-  - name: Investing Experience
-    link: ./#investing-experience
-  - name: Education
-    link: ./#education
-  - name: Volunteering
-    link: ./#volunteering
-  - name: Practical
-    link: ./#practical
-  - name: Personal
-    link: ./#personal
+# navigation:
+#   - name: Overview
+#     link: ./#overview
+#   - name: Engineering Experience
+#     link: ./#engineering-experience
+#   - name: Investing Experience
+#     link: ./#investing-experience
+#   - name: Education
+#     link: ./#education
+#   - name: Volunteering
+#     link: ./#volunteering
+#   - name: Practical
+#     link: ./#practical
+#   - name: Personal
+#     link: ./#personal
