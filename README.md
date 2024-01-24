@@ -74,8 +74,7 @@ Designing control systems for automation of production and testing machineries
 - Swing & position trading 
 - PEADs & momentum breakouts of US common Stocks
 - Started managing my own pension portfolio
-- Minimal experience with CFDs & Daytrading
-- **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith, KoyFin, FinViz
+- **Concepts, technologies & tools**: TC2000, ProRealTime, Marketsmith
 
 ## Education
 
@@ -98,7 +97,7 @@ Realizing sustainability projects and creating awareness within our village
 **English**: Professional <br> **Dutch**: Conversational <br> **Tamil**: Native <br> **Telugu**: Native | **Nationality**: Nederlands <br> **Driving License**: <br>A - Motorcycles <br> B - Cars
 
 ## Personal 
-- Father of a 3 yr old daughter
+- Father of a 4 yr old daughter
 - Married to my wife since 2016
 - Powerlifting for fitness
 - Like listening to trading and personal development podcasts 
